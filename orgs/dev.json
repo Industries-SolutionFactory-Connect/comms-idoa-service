@@ -1,6 +1,6 @@
 {
   "orgName": "comms-idoa-service - Dev Org",
-  "edition": "Developer",
+  "template": "0TTB0000001YGRC",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
